@@ -15,8 +15,8 @@ A simple bash script to update oxide plugins in a folder
   
 ## Usage
 
-1. Edit the `PLUGINS_DIRECTORY` variable in `update.sh` to your oxide plugins folder
-2. Update file permissions
+1. Change the `PLUGINS_DIRECTORY` variable in `update.sh` to your oxide plugins folder
+2. Update file permissions  
   `$ chmod +x update.sh`
-3. Run `update.sh`
+3. Run update.sh  
   `$ ./update.sh`
